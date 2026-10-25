@@ -1,2 +1,2 @@
-# squareup
-Subdomain takeover by felcity
+# vinted
+
